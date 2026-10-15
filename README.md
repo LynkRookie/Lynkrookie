@@ -20,9 +20,9 @@ Desarrollador **Full Stack** de Ovalle, Chile. Parto siempre desde la necesidad 
 - **[Pet Flores](https://petflores.vercel.app)**: reserva de horas para veterinaria, con panel administrativo por perfiles, pacientes y recetas.
 
 ### 🛠️ Herramientas propias (IgniStack)
-- **IgniStack Resume Manager**: generador de CV con formato chileno (RUT, fecha de nacimiento), vista previa en tiempo real y exportación a PDF.
-- **IgniStack Converter**: [una línea sobre qué convierte]
-- **Ignivalor**: [una línea sobre qué hace]
+- **[IgniWeather](https://igniweather.vercel.app)**: plataforma web para consultar el clima en tiempo real de forma rápida y clara. Muestra el estado actual, sensación térmica, humedad, precipitación, viento y pronóstico por hora y por día, con una interfaz que se adapta a móvil y escritorio. Integra servicios externos de datos meteorológicos. *React · JavaScript · Node.js · Next.js*
+- **[IgniStack Resume Manager](https://ignistack-resume-manager.vercel.app/)**: generador de CV con formato chileno (RUT, fecha de nacimiento), vista previa en tiempo real y exportación a PDF.
+- **[IgniStack Converter](https://ignistack-converter.vercel.app/)**: Convierte, redimensiona y prepara tus archivos sin almacenarlos permanentemente.
 
 ---
 
