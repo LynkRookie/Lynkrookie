@@ -1,14 +1,30 @@
 # 👋 Hola, soy Damián Jinel
 
-Desarrollador **Full Stack** de Ovalle, Chile. Construyo plataformas web que reemplazan procesos manuales por sistemas simples, rápidos y trazables.
+Desarrollador **Full Stack** de Ovalle, Chile. Parto siempre desde la necesidad real del usuario y construyo la herramienta que la resuelve: reservas, gestión municipal, alertas a la comunidad, generadores, convertidores y más.
 
 🎓 Estudiante de Ingeniería de Ejecución en Informática (Santo Tomás, 2024–2026) · Técnico Analista Programador
 
-## 🚀 Proyectos destacados
-- **[saccmo.cloud](https://saccmo.cloud)**: agendamiento de espacios públicos e inscripción a talleres para el Centro de Extensión Cultural Municipal de Ovalle, con disponibilidad en tiempo real y el motor de flujos SirOS.
-- **[Pet Flores](https://petflores.vercel.app)**: reserva de horas para veterinaria, panel administrativo, pacientes y recetas.
-- **[IgniStack Resume Manager](#)**: generador de CV con formato chileno (RUT, fecha de nacimiento) y vista previa en tiempo real.
-- **[IgniStack Alerta Ciudadana](#)**: mapa interactivo de cortes de agua y electricidad.
+---
+
+## 🧩 Software a medida: lo que he construido
+
+### 🏛️ Sector público y comunidad
+- **[saccmo.cloud](https://saccmo.cloud)**: agendamiento de espacios públicos e inscripción a talleres del Centro de Extensión Cultural Municipal de Ovalle, con panel administrativo y disponibilidad en tiempo real.
+- **SirOS**: motor de flujos que deriva solicitudes técnicas de Marketing y Producción a procesadores especializados, con trazabilidad completa.
+- **[Culturix](https://culturix.vercel.app)**: rediseño completo de la gestión de solicitudes e inscripciones del teatro municipal; notificaciones por correo y gestión en tiempo real.
+- **Gestor municipal**: [una línea sobre qué gestiona]
+- **IgniStack Alerta Ciudadana**: mapa interactivo para reportar cortes de agua y electricidad, con puntos de reabastecimiento en emergencias.
+
+### 🏪 Negocios y servicios
+- **[Pet Flores](https://petflores.vercel.app)**: reserva de horas para veterinaria, panel administrativo con perfiles, pacientes y recetas.
+- **Hostal del Molino**: [una línea sobre qué resuelve: reservas, sitio web, etc.]
+
+### 🛠️ Herramientas propias (IgniStack)
+- **IgniStack Resume Manager**: generador de CV con formato chileno (RUT, fecha de nacimiento), vista previa en tiempo real y exportación a PDF.
+- **IgniStack Converter**: [una línea sobre qué convierte]
+- **Ignivalor**: [una línea sobre qué hace]
+
+---
 
 ## 🛠️ Stack
 **Frontend:** React · Next.js · TypeScript · Tailwind CSS · Vite
@@ -16,7 +32,7 @@ Desarrollador **Full Stack** de Ovalle, Chile. Construyo plataformas web que ree
 **Datos:** PostgreSQL (Neon) · MySQL
 **Herramientas:** Git · GitHub · Vercel
 
-> Parte de mi trabajo está en repositorios privados (proyectos para clientes e instituciones), por eso mi actividad pública no lo refleja todo.
+> Parte de mi trabajo está en repositorios privados (proyectos para instituciones y clientes), por eso mi actividad pública no lo refleja todo.
 
 ## 📬 Contacto
 - 🌐 [ignistack.vercel.app](https://ignistack.vercel.app)
