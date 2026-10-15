@@ -27,11 +27,11 @@ Desarrollador **Full Stack** de Ovalle, Chile. Parto siempre desde la necesidad 
 ---
 
 ## 🛠️ Stack
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Vite
-**Backend:** Node.js · Express · PHP
-**Datos:** PostgreSQL (Neon) · MySQL
-**Móvil:** Capacitor
-**Herramientas:** Git · GitHub · Vercel
+- **Frontend:** React · Next.js · TypeScript · Tailwind CSS · Vite
+- **Backend:** Node.js · Express · PHP
+- **Datos:** PostgreSQL (Neon) · MySQL
+- **Móvil:** Capacitor
+- **Herramientas:** Git · GitHub · Vercel
 
 > Parte de mi trabajo está en repositorios privados (proyectos para instituciones y clientes), por eso mi actividad pública no lo refleja todo.
 
