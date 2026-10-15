@@ -13,7 +13,7 @@ Desarrollador **Full Stack** de Ovalle, Chile. Parto siempre desde la necesidad 
 - **SirOS**: motor de flujos que deriva solicitudes técnicas de Marketing y Producción a procesadores especializados, con trazabilidad completa.
 - **[Culturix](https://culturix.vercel.app)**: rediseño completo de la gestión de solicitudes e inscripciones del teatro municipal, con notificaciones por correo y gestión en tiempo real.
 - **[Gestor Municipal](https://ovalle-soporte.vercel.app)**: plataforma web que centraliza y gestiona los informes municipales, con consulta, administración y seguimiento de la información en una interfaz clara y responsiva. *React · Node.js · SQL*
-- **IgniStack Alerta Ciudadana**: mapa interactivo para reportar cortes de agua y electricidad, con puntos de reabastecimiento en emergencias.
+- **[IgniStack Alerta Ciudadana](https://ignistack-alerta-ciudadana.vercel.app/)**: mapa interactivo para reportar cortes de agua y electricidad, con puntos de reabastecimiento en emergencias.
 
 ### 🏪 Negocios y servicios
 - **[Hostal El Molino](https://hostalmolino.vercel.app)**: sistema para administrar una residencial de arriendo de habitaciones en Ovalle. Muestra qué piezas están ocupadas o libres, registra inquilinos con sus documentos y fecha de llegada, controla los pagos mensuales y lleva las finanzas del negocio (ingresos, gastos y ganancia). Reemplaza libretas y planillas sueltas, y funciona desde computador o celular. *React · Next.js · TypeScript · Node.js · Tailwind · PostgreSQL · Capacitor*
