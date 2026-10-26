@@ -1,4 +1,4 @@
-# 👋 Hola, soy Damián Eduardo Jinel Cortes
+# Hola, Soy Damián Eduardo Jinel Cortes
 
 Desarrollador **Full Stack** de Ovalle, Chile. Parto siempre desde la necesidad real del usuario y construyo la herramienta que la resuelve: reservas, gestión municipal, administración de negocios, alertas a la comunidad, generadores, convertidores y más.
 
